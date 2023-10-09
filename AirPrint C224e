@@ -1,0 +1,2 @@
+changed switch 25 from HEX20 to HEX60 <- change function ver.
+switch 168 from HEX06 back to HEX00 <- toggle airprint on and of.
