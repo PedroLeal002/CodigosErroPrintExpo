@@ -1,0 +1,27 @@
+Quando o CD011 aparece, deves colocar o firmware de “REPAIR” que te vou enviar por um link.
+Caso detectes mais algum equipamento com a versão V3.0 deves apenas usar o firmware “UPDATE” que te vou enviar por um link.
+ 
+REPAIR: 
+Using of SATA recovery tool
+1. Detach HDD and set in Service Mode HDD = unset
+2. Confirm the main switch is OFF
+3. Insert the <USB-SATA recovery> USB memory into USB slot.
+4. Turn Main SW ON while pressing the "Stop" button.
+5. After approximate 2 min message “ SATA FW Update completed successfully”
+6. turn the main SW off/ on
+7. Please check that new version of SATA Controller FW is now A7AH0Y0-6403-G00-04
+8. In case of stuck at two bars, please use SATA Controller update firmware
+9. In case of "SATA FW Update completed Failed." Replace MFP board 
+UPDATE:
+Using of SATA Controller update firmware
+1. Confirm the main switch is OFF
+2. Insert the <USB-SATA FW> USB memory into USB slot.
+3. Turn Main SW ON while pressing the "Stop" button.
+4. "firmware update screen." is shown
+5. Touch " Other FW Update" button
+6. Touch " SATA Controller " button
+7. Touch “Start” button
+8. After update is completed, turn the main SW off/ on
+9. Please check that new version of SATA Controller FW is now A7AH0Y0-6403-G00-04
+ 
+Ver o procedimento de actualização no anexo
