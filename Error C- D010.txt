@@ -1,0 +1,7 @@
+Erro C-D010 - 
+Problema na unidade de disco
+SOLUÇÃO 
+Substituição da unidade de disco 
+Formatação da unidade de Disco
+Atualização de firmware 
+Carregar MovieDATA
